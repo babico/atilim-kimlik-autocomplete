@@ -8,6 +8,9 @@
 // @match          https://kimlik.atilim.edu.tr*
 // @icon           https://www.atilim.edu.tr/assets/frontend/img/favicon/android-icon-192x192.png
 // @grant          none
+// @updateURL      https://raw.githubusercontent.com/babico/atilim-kimlik-autocomplete/main/main.user.js
+// @downloadURL    https://raw.githubusercontent.com/babico/atilim-kimlik-autocomplete/main/main.user.js
+// @supportURL     https://github.com/babico/atilim-kimlik-autocomplete/issues
 // ==/UserScript==
 
 (function() {
