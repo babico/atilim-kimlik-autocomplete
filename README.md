@@ -21,4 +21,4 @@ This script provides autocomplete functionality on the Atılım University Ident
 | Greasemonkey | Firefox | [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) |
 | Violentmonkey | Chrome, Firefox, Safari, Opera | [Violentmonkey](https://violentmonkey.github.io/get-it/) |
 
-3. Now, you can add script with this [link](https://raw.githubusercontent.com/babico/atilim-kimlik-autocomplete/main/user.main.js). 
+3. Now, you can add script with this [link](https://raw.githubusercontent.com/babico/atilim-kimlik-autocomplete/main/main.user.js). 
