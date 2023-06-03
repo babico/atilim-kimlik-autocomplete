@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           Atılım Identity Portal Autocomplete
+// @name:tr        Atılım Kimlik Portal Otodoldurma
 // @namespace      https://kimlik.atilim.edu.tr
 // @version        1.0
 // @description    This script provides autocomplete functionality on the Atılım University Identity Portal. It facilitates logging in by using the password saved in your password manager.
