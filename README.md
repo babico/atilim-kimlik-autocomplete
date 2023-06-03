@@ -11,3 +11,5 @@ You can access your browser's password manager using the following links:
 | Opera | opera://settings/passwords/ |
 | Firefox | about:logins |
 | Safari Mac | https://support.apple.com/en-us/HT211145 |
+
+[Turkish](https://github.com/babico/atilim-kimlik-autocomplete/blob/main/README.tr.md)
